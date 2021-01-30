@@ -26,8 +26,8 @@
     <description>Cordova Camera Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,camera</keywords>
-    <repo>https://github.com/apache/cordova-plugin-camera</repo>
-    <issue>https://github.com/apache/cordova-plugin-camera/issues</issue>
+    <repo>https://github.com/smiledev1230/cordova-plugin-camera</repo>
+    <issue>https://github.com/smiledev1230/cordova-plugin-camera/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=7.1.0"/>
